@@ -1,0 +1,16 @@
+[project]
+name = "python"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.13"
+dependencies = [
+    "dotenv>=0.9.9",
+    "faker>=37.6.0",
+    "notebook>=7.4.5",
+    "numpy>=2.3.2",
+    "pandas>=2.3.2",
+    "pandas-stubs>=2.3.2.250827",
+    "psycopg2>=2.9.10",
+    "sqlalchemy>=2.0.43",
+    "termcolor>=3.1.0",
+]
