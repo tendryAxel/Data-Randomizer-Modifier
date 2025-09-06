@@ -4,13 +4,15 @@
       "id": "123",
       "ref": "STD123",
       "first_name": "axel",
-      "last_name": "rakoto"
+      "last_name": "rakoto",
+      "age": 12
     },
     {
       "id": "321",
       "ref": "STD321",
       "first_name": "random girl",
-      "last_name": "random girl last name"
+      "last_name": "random girl last name",
+      "age": 53
     }
   ]
 }
